@@ -1,0 +1,30 @@
+{
+  "name": "開聞クリニック通所送迎アプリ",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "lint": "tsc --noEmit",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^1.10.0",
+    "@tailwindcss/vite": "^4.2.2",
+    "html2canvas": "1.4.1",
+    "jspdf": "2.5.1",
+    "pako": "2.1.0",
+    "qrcode": "1.5.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.2.2",
+    "xlsx": "0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

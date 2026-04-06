@@ -1,0 +1,6 @@
+{
+  "name": "開聞クリニック通所送迎アプリ",
+  "description": "A web application for Kaimon Clinic to manage and optimize transportation routes for its day service users. It allows for creating daily pickup and drop-off schedules and provides a driver-friendly interface for route execution.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
